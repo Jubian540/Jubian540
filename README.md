@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Jubian</h1>
-<h3 align="center">A operation system developer from China where live India now.</h3>
+<h3 align="center">A operation system developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubian054&label=Profile%20views&color=0e75b6&style=plastic" alt="jubian054" /> </p>
 
